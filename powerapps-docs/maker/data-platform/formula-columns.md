@@ -17,7 +17,7 @@ contributors:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../../includes/cc-beta-prerelease-disclaimer.md)]
 
-Formula columns are columns that display a calculated value in a Microsoft Dataverse table. Formulas use [Power Fx](/power-platform/power-fx/overview), a powerful but human-friendly programming language. Build a formula in a Dataverse formula column the same way you would build a formula in Microsoft Excel. As you type, Intellisense suggests functions and syntax, and even helps you fix errors.
+Formula columns are columns that display a calculated value in a Microsoft Dataverse table. Formulas use [Power Fx](/power-platform/power-fx/overview), a powerful and human-friendly programming language. Build a formula in a Dataverse formula column the same way you would build a formula in Microsoft Excel. As you type, Intellisense suggests functions and syntax, and even helps you fix errors.
 
 > [!NOTE]
 > Formula columns can be added as a calculated field. Currently, formula columns can't be used in roll-up fields or with plugins.
